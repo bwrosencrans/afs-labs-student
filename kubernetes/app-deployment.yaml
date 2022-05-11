@@ -4,7 +4,7 @@ metadata:
   name: app-deployment
   namespace: brosencrans
   labels:
-    app: <APP>
+    app: app
 spec:
   replicas: 1
   strategy:
